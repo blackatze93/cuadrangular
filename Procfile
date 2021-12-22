@@ -1,0 +1,1 @@
+web: gunicorn cuadrangular.wsgi --log-file -
